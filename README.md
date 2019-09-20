@@ -4,8 +4,10 @@
 
 ## Use
 
+From DockerHub: https://hub.docker.com/r/sirodoht/nuboka
+
 ```sh
-docker pull [sirodoht/nuboka](https://hub.docker.com/r/sirodoht/nuboka)
+docker pull sirodoht/nuboka
 ```
 
 ## License
