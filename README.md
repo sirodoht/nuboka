@@ -4,7 +4,7 @@
 
 ## Use
 
-From DockerHub: https://hub.docker.com/r/sirodoht/nuboka
+Pull from DockerHub: https://hub.docker.com/r/sirodoht/nuboka
 
 ```sh
 docker pull sirodoht/nuboka
