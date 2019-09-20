@@ -1,0 +1,22 @@
+{
+  "name": "nuboka",
+  "version": "1.0.0",
+  "description": "Node.js-based image for debugging k8s clusters from the inside.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirodoht/k8s-debug-node-base.git"
+  },
+  "author": "sirodoht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirodoht/k8s-debug-node-base/issues"
+  },
+  "homepage": "https://github.com/sirodoht/k8s-debug-node-base#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
